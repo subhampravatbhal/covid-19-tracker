@@ -1,0 +1,35 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    background-image: url(../image/1196585-coronavirus-live-updates.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.nav
+{
+    background-color:aquamarine;
+    padding: 23px;
+    
+}
+.menu 
+{
+    display: flex;
+    
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    
+}
+a:hover
+{
+    text-decoration: underline;
+   font-weight: bolder;
+}
+.list
+{
+    margin-left: 153px;
+}
